@@ -10,9 +10,12 @@ The rules of this puzzle includes :
 2.	Each move consists of taking the upper disc from one of the stacks and placing it on top of another stack or an empty pole.
 3.	No disc should be placed on top of a disc that is smaller than it.
 
+
+![image](https://user-images.githubusercontent.com/41635465/149123846-e9ec9999-909f-487c-979c-2a20d0a21964.png)
+
+
 The minimal number of moves required to solve a Tower of Hanoi puzzle is 2n − 1. n is the number of discs. With 3 discs, the puzzle can be solved in 7 moves.
 The puzzle can be played with any number of discs.
-![image](https://user-images.githubusercontent.com/41635465/149123846-e9ec9999-909f-487c-979c-2a20d0a21964.png)
 The Tower of Hanoi is frequently used in psychological research on problem-solving.
 The Tower of Hanoi is popular for teaching recursive algorithms to beginner programmers.
 
